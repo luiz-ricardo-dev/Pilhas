@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Projetos\Pilhas\bin\Debug\net8.0\Pilhas.exe
+C:\Users\usuario\Desktop\Projetos\Pilhas\bin\Debug\net8.0\Pilhas.deps.json
+C:\Users\usuario\Desktop\Projetos\Pilhas\bin\Debug\net8.0\Pilhas.runtimeconfig.json
+C:\Users\usuario\Desktop\Projetos\Pilhas\bin\Debug\net8.0\Pilhas.dll
+C:\Users\usuario\Desktop\Projetos\Pilhas\bin\Debug\net8.0\Pilhas.pdb
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\Pilhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\Pilhas.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\Pilhas.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\Pilhas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\Pilhas.dll
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\refint\Pilhas.dll
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\Pilhas.pdb
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\Pilhas.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Projetos\Pilhas\obj\Debug\net8.0\ref\Pilhas.dll
